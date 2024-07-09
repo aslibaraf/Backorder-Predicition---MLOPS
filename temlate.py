@@ -1,7 +1,7 @@
 import os
 from pathlib import Path
 
-project_name = 'Your_Project_Name'
+project_name = 'Backorder_Prediction'
 
 files_to_create = [
     f"{project_name}/__init__.py",
